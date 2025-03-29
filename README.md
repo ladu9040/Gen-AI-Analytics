@@ -46,8 +46,7 @@ The application follows a component-based architecture with Redux for state mana
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gen-ai-analytics-dashboard.git
-cd gen-ai-analytics-dashboard
+git clone https://github.com/ladu9040/Gen-AI-Analytics.git
 ```
 
 2. Install dependencies:
@@ -64,7 +63,7 @@ npm start
 yarn start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open (http://localhost:3000) in your browser
 
 ## Usage Examples
 
