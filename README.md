@@ -2,7 +2,7 @@
 
 A React-based dashboard prototype for natural language querying of analytics data. This project demonstrates a user interface for an AI-powered analytics tool that allows users to ask questions about their data in natural language and receive visualized responses.
 
-## [Live Demo](https://gen-ai-analytics-demo.netlify.app)
+## [Live Demo](https://gen-ai-analytics-73hf.vercel.app/)
 
 ## Features
 
